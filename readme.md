@@ -1,4 +1,4 @@
-## MRIO model analysis by [pymrio package](https://github.com/IndEcol/pymrio) 
+## MRIO model analysis by [pymrio package](https://github.com/IndEcol/pymrio) and Gloria data
 
 _Some developing tools can be found at [here](https://github.com/francis-barre/pymrio)_
 
